@@ -32,27 +32,5 @@ consume out). Η συναρτηση c λειτουργει ως consumer δλδ 
 
 produce out .
 
-P1
-
-P2
-
-Produce in
-
-SHM1
-
-SHM2
-
-Consume in
-
-C
-
-P3
-
-Consume out
-
-P4
-
-P5
-
-Produce out
+![image](https://user-images.githubusercontent.com/37142918/142733603-e5b488c2-875f-429c-94ef-5376d8aa1bd1.png)
 
